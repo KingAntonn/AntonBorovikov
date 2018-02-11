@@ -1,0 +1,54 @@
+Source,Type,Target,Weight
+Вестник,Undirected,Кормилица,1
+Вестник,Undirected,Прислужница,1
+Вестник,Undirected,Прислужницв,1
+Вестник,Undirected,Слуга,1
+Вестник,Undirected,Тезей,1
+Вестник,Undirected,Хор,1
+Вестник,Undirected,Хор друзей,1
+Вестник,Undirected,Хор подруг,1
+Друзья,Undirected,Ипполит,1
+Друзья,Undirected,Слуга,1
+Друзья,Undirected,Федра,1
+Друзья,Undirected,Хор Юношей,1
+Ипполит,Undirected,Кормилица,1
+Ипполит,Undirected,Слуга,2
+Ипполит,Undirected,Федра,2
+Ипполит,Undirected,Хор Юношей,1
+Кормилица,Undirected,Одна из прислужниц,1
+Кормилица,Undirected,Прислужница,1
+Кормилица,Undirected,Прислужницв,1
+Кормилица,Undirected,Прислужницы,1
+Кормилица,Undirected,Слуга,2
+Кормилица,Undirected,Тезей,1
+Кормилица,Undirected,Федра,2
+Кормилица,Undirected,Хор,1
+Кормилица,Undirected,Хор друзей,1
+Кормилица,Undirected,Хор подруг,1
+Одна из прислужниц,Undirected,Прислужницы,1
+Одна из прислужниц,Undirected,Федра,1
+Прислужница,Undirected,Прислужницв,1
+Прислужница,Undirected,Слуга,1
+Прислужница,Undirected,Тезей,1
+Прислужница,Undirected,Хор,1
+Прислужница,Undirected,Хор друзей,1
+Прислужница,Undirected,Хор подруг,1
+Прислужницв,Undirected,Слуга,1
+Прислужницв,Undirected,Тезей,1
+Прислужницв,Undirected,Хор,1
+Прислужницв,Undirected,Хор друзей,1
+Прислужницв,Undirected,Хор подруг,1
+Прислужницы,Undirected,Федра,1
+Слуга,Undirected,Тезей,1
+Слуга,Undirected,Федра,2
+Слуга,Undirected,Хор,1
+Слуга,Undirected,Хор Юношей,1
+Слуга,Undirected,Хор друзей,1
+Слуга,Undirected,Хор подруг,1
+Тезей,Undirected,Хор,1
+Тезей,Undirected,Хор друзей,1
+Тезей,Undirected,Хор подруг,1
+Федра,Undirected,Хор Юношей,1
+Хор друзей,Undirected,Хор подруг,1
+Хор,Undirected,Хор друзей,1
+Хор,Undirected,Хор подруг,1
